@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [root / Compile / run] Found inputs: /home/marco/git/scala/scientific-computing-with-scala/*.{java,scala},/home/marco/git/scala/scientific-computing-with-scala/src/main/java/**/*.{java,scala},/home/marco/git/scala/scientific-computing-with-scala/src/main/resources/**/*,/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/**/*.{java,scala},/home/marco/git/scala/scientific-computing-with-scala/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala (previous stamp: Hash(b42da6583f5674366641eaad3ae35008071f3037), current stamp: Hash(83e141d03e22bf67ba5556829402afe5aa8d8525))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala -> Trigger. Returning: (Update(/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala, 2020-Aug-04 08:59:41.528 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch02/JsonReader.scala, 2020-Aug-04 08:59:41.528 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

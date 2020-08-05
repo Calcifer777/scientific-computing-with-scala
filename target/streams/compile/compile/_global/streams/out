@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch03/SignalProcessing.scala:40:15: not found: type Complex[0m
+[0m[[0m[31merror[0m] [0m[0m    yield new Complex(sample, 0.0)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/marco/git/scala/scientific-computing-with-scala/src/main/scala/ch03/SignalProcessing.scala:41:37: could not find implicit value for parameter impl: breeze.signal.fourierTransform.Impl[breeze.linalg.DenseVector[Nothing],VR][0m
+[0m[[0m[31merror[0m] [0m[0m  val transformed = fourierTransform(csignal)[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
